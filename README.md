@@ -2,7 +2,9 @@
 
 React is a JavaScript library for building user interfaces.
 
-This repo is an implementation of a React tutorial. To get it up and running, run python -m SimpleHTTPServer in the repository's top level directory.
+This repo is an implementation of a React tutorial. 
+
+To get it up and running, run python -m SimpleHTTPServer in the repository's top level directory.
 
 * **Just the UI:** Lots of people use React as the V in MVC. Since React makes no assumptions about the rest of your technology stack, it's easy to try it out on a small feature in an existing project.
 * **Virtual DOM:** React uses a *virtual DOM* diff implementation for ultra-high performance. It can also render on the server using Node.js — no heavy browser DOM required.
